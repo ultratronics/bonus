@@ -1,0 +1,54 @@
+Joran 
+
+Wat is een gameObject = 0.5
+
+Wesley 
+
+Welke programmeertaal gebruikt Unity = 0
+
+Wat is een script =  1
+
+Kick
+
+Wat is een tag van een Gameobject = 1
+Welk platform wordt niet ondersteund door unity = 0
+
+Maxime 
+Wat is een tranform in Unity = 0
+Wat is een Sprite = 0
+
+Tom
+Wat is een sprite = 1
+
+Joey
+Wat is een Canvas = 0
+
+Adam
+Wat is een Canvas = 0
+Welke Programmeertaal = 1
+
+Jasper
+Wat is het verschil tussen een trigger en een collision bij een collider = 0
+Hoe activeer je de gravity in unity = 0
+
+Tom 
+Hoe draait de blok rond
+Nils
+Wat is een skybox = 0
+Is een 2D game in unity ook een 3D game? 1
+
+Robbe
+ Via welke winkel  = 1
+ Wat is een sorting layer = 1
+
+Joran
+Wat is het verschil tussen een point light en een directional light=1
+
+Jordi
+Wat zijn de constraints bij een Rigidbody? 1
+Welke winkel = 1
+
+Wesley Breemans
+selection sort  = 0;
+Wesley 5D array = 1
+
